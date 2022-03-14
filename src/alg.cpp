@@ -18,6 +18,7 @@ return false;
 }
 }
 
+
 uint64_t nPrime(uint64_t n) {
 bool flag = true;
 uint64_t check = 0;
